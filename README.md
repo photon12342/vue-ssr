@@ -5,20 +5,20 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动前端开发环境
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包生成静态文件、客户端bundle和服务端bundle
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 启动express后台服务
 ```
-npm run lint
+npm run start
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 访问
+通过http://localhost:3300/访问
